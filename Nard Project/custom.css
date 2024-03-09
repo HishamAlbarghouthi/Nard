@@ -1,0 +1,36 @@
+#b1{
+    background-image: url(Images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#h11{
+    text-align: center;
+}
+#d1{
+    background-color:snow;
+    padding: 10px;
+}
+.btn-primary{
+    margin-left: 40px ;
+}
+.card{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.d2{
+    display: flex;
+}
+table, th, td {
+    border:1px solid black;
+    padding-left: 100px;
+    margin-top: 50px;
+  }
+  #card1{
+    margin-left: 500px;
+  }
+  #b2{
+    background-color: azure;
+  }
+  table{
+    text-align: center;
+  }
